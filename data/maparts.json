@@ -1,0 +1,121 @@
+{
+  "maparts": [
+    {
+      "id": "ma_001",
+      "title": "Creeper Face",
+      "image": "images/maparts/creeper_face.png",
+      "width": 10,
+      "height": 9,
+      "creator": "Notch_Clone",
+      "uploadDate": "2024-03-15",
+      "description": "A classic Creeper face rendered in full map resolution. One of the most iconic builds on 6b6t.",
+      "tags": ["creeper", "mob", "classic", "iconic"],
+      "totalMaps": 90,
+      "views": 1247,
+      "featured": true
+    },
+    {
+      "id": "ma_002",
+      "title": "Ender Dragon Sky",
+      "image": "images/maparts/enderdragon_sky.png",
+      "width": 12,
+      "height": 8,
+      "creator": "VoidWalker99",
+      "uploadDate": "2024-04-02",
+      "description": "The Ender Dragon soaring through the End dimension. Incredible depth and shading.",
+      "tags": ["enderman", "dragon", "boss", "end"],
+      "totalMaps": 96,
+      "views": 2085,
+      "featured": true
+    },
+    {
+      "id": "ma_003",
+      "title": "Nether Fortress",
+      "image": "images/maparts/nether_fortress.png",
+      "width": 7,
+      "height": 7,
+      "creator": "BlazeMaster",
+      "uploadDate": "2024-04-18",
+      "description": "Detailed recreation of a Nether Fortress with blazes and wither skeletons.",
+      "tags": ["nether", "fortress", "blaze", "dark"],
+      "totalMaps": 49,
+      "views": 891,
+      "featured": false
+    },
+    {
+      "id": "ma_004",
+      "title": "Ocean Monument",
+      "image": "images/maparts/ocean_monument.png",
+      "width": 8,
+      "height": 6,
+      "creator": "Aquanaut_X",
+      "uploadDate": "2024-05-01",
+      "description": "An underwater ocean monument with guardians. Beautiful blue color palette.",
+      "tags": ["ocean", "monument", "underwater", "guardian"],
+      "totalMaps": 48,
+      "views": 734,
+      "featured": false
+    },
+    {
+      "id": "ma_005",
+      "title": "Diamond Pickaxe",
+      "image": "images/maparts/diamond_pickaxe.png",
+      "width": 5,
+      "height": 5,
+      "creator": "MinerKing",
+      "uploadDate": "2024-05-12",
+      "description": "Pixel-perfect diamond pickaxe. A tribute to every Minecraft player's first diamond tool.",
+      "tags": ["tool", "diamond", "mining", "pixel"],
+      "totalMaps": 25,
+      "views": 556,
+      "featured": false
+    },
+    {
+      "id": "ma_006",
+      "title": "Steve Portrait",
+      "image": "images/maparts/steve_portrait.png",
+      "width": 6,
+      "height": 8,
+      "creator": "PixelPainter",
+      "uploadDate": "2024-06-03",
+      "description": "A hyper-detailed portrait of Steve, the original Minecraft character. Stunning detail in the face.",
+      "tags": ["steve", "portrait", "character", "detailed"],
+      "totalMaps": 48,
+      "views": 1102,
+      "featured": true
+    },
+    {
+      "id": "ma_007",
+      "title": "Ancient City",
+      "image": "images/maparts/ancient_city.png",
+      "width": 14,
+      "height": 10,
+      "creator": "DeepDarkDave",
+      "uploadDate": "2024-06-20",
+      "description": "The largest map art on 6b6t! A full recreation of the Ancient City biome with the Warden lurking.",
+      "tags": ["ancient", "city", "warden", "deepdark", "massive"],
+      "totalMaps": 140,
+      "views": 3421,
+      "featured": true
+    },
+    {
+      "id": "ma_008",
+      "title": "Cherry Blossom",
+      "image": "images/maparts/cherry_blossom.png",
+      "width": 9,
+      "height": 7,
+      "creator": "SakuraBuild",
+      "uploadDate": "2024-07-04",
+      "description": "A peaceful cherry blossom grove. The pink and white palette is perfectly blended.",
+      "tags": ["cherry", "blossom", "peaceful", "nature", "pink"],
+      "totalMaps": 63,
+      "views": 1876,
+      "featured": false
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2024-07-04",
+    "version": "1.0.0",
+    "server": "6b6t.org"
+  }
+}
